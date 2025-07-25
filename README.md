@@ -1,27 +1,27 @@
-Java To-Do List App (Swing GUI)
+📝 Java To-Do List App (Swing GUI)
 
-A simple desktop-based To-Do List application built using Java Swing. This beginner-friendly project allows users to manage their daily tasks easily.
-It was created as a personal project to practice Java GUI development using Swing components and to build up my programming portfolio.
+- A simple desktop-based To-Do List application built using Java Swing. This beginner-friendly project allows users to manage their daily tasks easily.
+  It was created as a personal project to practice Java GUI development using Swing components and to build up my programming portfolio.
 
-Created by: Shandara Mae De Las Llagas  
-
----
-
-Features
-
--  Add and remove tasks
--  Mark tasks as done / undone
--  Remove selected tasks with confirmation
--  Clear all tasks with confirmation
--  Live task counter
--  Edit tasks by double-clicking
--  Prevents duplicate entries
--  Dark Mode Toggle
--  Improved Layout
+💻 Created by: Shandara Mae De Las Llagas  
 
 ---
 
-How to Run
+🚀 Features
+
+- ✅ Add and remove tasks  
+- ✔️ Mark tasks as done / undone  
+- 🗑️ Remove selected tasks (with confirmation)  
+- 🔄 Clear all tasks (with confirmation)  
+- 🔢 Live task counter  
+- ✏️ Edit tasks by double-clicking  
+- 🚫 Prevent duplicate entries  
+- 🌙 Dark Mode toggle  
+- 🎨 Improved layout design  
+
+---
+
+How to Run?
 
 > This project uses Java Swing and was built using Eclipse IDE.
 
@@ -43,7 +43,7 @@ Requirements:
 
 ---
 
-Screenshots
+📸 Screenshots
 
 <img width="380" height="488" alt="image" src="https://github.com/user-attachments/assets/f21b7a57-f7bf-4425-b5ff-fbaa8bd79ca9" />
 <img width="381" height="484" alt="image" src="https://github.com/user-attachments/assets/75151ceb-00b1-40be-b55e-ecad1dead4ae" />
@@ -55,10 +55,11 @@ Screenshots
 <img width="382" height="490" alt="image" src="https://github.com/user-attachments/assets/1a9fc0bd-df0b-4eb8-9bd5-213f59419ff0" />
 
 
-Project Purpose
+🎯 Project Purpose
 - This project is part of my Java Swing learning journey and a featured entry in my personal GitHub portfolio. It aims to demonstrate practical understanding of GUI programming, layout management, event handling, and version control with Git and GitHub.
 
-⚠️ This project is still in active development. Please do not reuse or distribute code until the license is finalized.
+⚠️ NOTE:
+- This project is still in active development. Please do not reuse or distribute code until the license is finalized.
 
 
 
